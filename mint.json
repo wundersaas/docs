@@ -75,6 +75,7 @@
     },
     {
       "group": "Changes",
+      "icon": "fire",
       "pages": [
         "atualiza/novidades"
       ]
