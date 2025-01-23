@@ -26,15 +26,14 @@
     "url": "https://dashboard.bevean.com"
   },
   "primaryTab": {
-    "name": "Base de Conhecimento",
-    "icon": "arrows-rotate"
+    "name": "Base de Conhecimento"
   },
   "tabs": [
     {
       "name": "API para Desenvolvedores",
-      "url": "api-reference",
-      "icon": "arrows-rotate"
-    }
+      "icon": "arrows-rotate",
+      "url": "api-reference"
+  }
   ],  
   "anchors": [
     {
