@@ -26,8 +26,8 @@
     "url": "https://dashboard.bevean.com"
   },
   "primaryTab": {
-    "name": "Base de Conhecimento"
-    "icon": "books",
+    "name": "Base de Conhecimento",
+    "icon": "arrows-rotate"
   },
   "tabs": [
     {
