@@ -72,6 +72,12 @@
       "pages": [
         "api-reference/em-breve"
       ]
+    },
+    {
+      "group": "Changes",
+      "pages": [
+        "atualiza/novidades"
+      ]
     }
   ],
   "footerSocials": {
