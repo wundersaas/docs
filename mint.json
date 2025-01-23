@@ -35,7 +35,8 @@
     },
     {
       "name": "Changelog",
-      "url": "atualiza"
+      "url": "atualiza",
+      "icon": "fire"
     }
   ],  
   "anchors": [
@@ -75,7 +76,6 @@
     },
     {
       "group": "Changes",
-      "icon": "fire",
       "pages": [
         "atualiza/novidades"
       ]
