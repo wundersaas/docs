@@ -50,14 +50,6 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": [
-        "introductions",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
       "group": "CRM",
       "pages": [
         "crm/markdown",
