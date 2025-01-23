@@ -33,18 +33,18 @@
   ],
   "anchors": [
     {
-      "name": "Atualizações",
-      "icon": "rocket-launch",
+      "name": "Atualizações recentes",
+      "icon": "refresh",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Roadmap",
+      "name": "Próximas entregas",
       "icon": "person-digging",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
+      "name": "Comunidade Bevean",
+      "icon": "whatsapp",
       "url": "https://mintlify.com/blog"
     }
   ],
