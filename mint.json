@@ -56,11 +56,11 @@
       "group": "CRM",
       "pages": [
         "crm/introducao",
+        "crm/tarefas",
         "crm/campanhas",
         "crm/clientes",
         "crm/conteudos",
-        "crm/analytics",
-        "crm/tarefas"
+        "crm/analytics"
       ]
     },
     {
