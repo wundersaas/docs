@@ -34,7 +34,7 @@
       "url": "api-reference"
     },
     {
-      "name": "<Icon icon="check" iconType="solid" />Changelog",
+      "name": <Icon icon="check" />"Changelog",
       "url": "atualiza"
     }
   ],  
