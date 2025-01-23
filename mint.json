@@ -43,7 +43,7 @@
     {
       "name": "Atualizações Recentes",
       "icon": "arrows-rotate",
-      "page": "updates/updates"
+      "url": "api-reference"
     },
     {
       "name": "Próximas Entregas",
