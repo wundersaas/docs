@@ -58,14 +58,14 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "CRM",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "crm/markdown",
+        "crm/code",
+        "crm/images",
+        "crm/settings",
+        "crm/navigation",
+        "crm/reusable-snippets"
       ]
     },
     {
