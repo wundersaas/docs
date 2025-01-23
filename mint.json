@@ -55,12 +55,12 @@
     {
       "group": "CRM",
       "pages": [
-        "crm/markdown",
-        "crm/code",
-        "crm/images",
-        "crm/settings",
-        "crm/navigation",
-        "crm/reusable-snippets"
+        "crm/introducao",
+        "crm/campanhas",
+        "crm/clientes",
+        "crm/conteudos",
+        "crm/analytics",
+        "crm/tarefas"
       ]
     },
     {
