@@ -25,20 +25,14 @@
     "name": "Painel de Controle",
     "url": "https://dashboard.bevean.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "Atualizações recentes",
-      "icon": "refresh",
+      "name": "Atualizações Recentes",
+      "icon": "arrows-rotate",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Próximas entregas",
+      "name": "Próximas Entregas",
       "icon": "person-digging",
       "url": "https://mintlify.com/community"
     },
