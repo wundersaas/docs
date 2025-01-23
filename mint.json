@@ -38,7 +38,7 @@
     {
       "name": "Atualizações Recentes",
       "icon": "arrows-rotate",
-      "page": updates"
+      "url": "updates"
     },
     {
       "name": "Próximas Entregas",
