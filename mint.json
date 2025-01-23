@@ -32,7 +32,11 @@
     {
       "name": "API para Desenvolvedores",
       "url": "api-reference"
-  }
+    },
+    {
+      "name": "Updates",
+      "url": "atualiza"
+    }
   ],  
   "anchors": [
     {
