@@ -34,9 +34,8 @@
       "url": "api-reference"
     },
     {
-      "name": "Changelog",
-      "url": "atualiza",
-      "icon": "fire"
+      "name": "<Icon icon="check" iconType="solid" />Changelog",
+      "url": "atualiza"
     }
   ],  
   "anchors": [
