@@ -36,11 +36,6 @@
   ],  
   "anchors": [
     {
-      "name": "Atualizações Recentes Error",
-      "icon": "arrows-rotate",
-      "url": "https://dashboard.bevean.com"
-    },
-    {
       "name": "Atualizações Recentes",
       "icon": "arrows-rotate",
       "url": "https://bevean.mintlify.app/atualiza/novidades"
