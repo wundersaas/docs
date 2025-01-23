@@ -41,6 +41,11 @@
       "url": "https://dashboard.bevean.com"
     },
     {
+      "name": "Atualizações Recentes",
+      "icon": "arrows-rotate",
+      "page": "updates/updates"
+    },
+    {
       "name": "Próximas Entregas",
       "icon": "person-digging",
       "url": "https://mintlify.com/community"
