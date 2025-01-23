@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "API para Devs",
+      "name": "API para Desenvolvedores",
       "url": "api-reference"
     }
   ],  
@@ -61,17 +61,9 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Documentação da API",
       "pages": [
         "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
