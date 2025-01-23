@@ -31,7 +31,6 @@
   "tabs": [
     {
       "name": "API para Desenvolvedores",
-      "icon": "arrows-rotate",
       "url": "api-reference"
   }
   ],  
