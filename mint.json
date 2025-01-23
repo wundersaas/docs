@@ -33,13 +33,13 @@
   ],
   "anchors": [
     {
-      "name": "Últimas atualizações",
-      "icon": "book-open-cover",
+      "name": "Atualizações",
+      "icon": "rocket-launch",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Próximos lançamentos",
-      "icon": "rocket-launch",
+      "name": "Roadmap",
+      "icon": "person-digging",
       "url": "https://mintlify.com/community"
     },
     {
