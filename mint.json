@@ -25,6 +25,9 @@
     "name": "Painel de Controle",
     "url": "https://dashboard.bevean.com"
   },
+  "primaryTab": {
+    "name": "Home"
+  },
   "tabs": [
     {
       "name": "API para Desenvolvedores",
