@@ -27,6 +27,7 @@
   },
   "primaryTab": {
     "name": "Base de Conhecimento"
+    "icon": "books",
   },
   "tabs": [
     {
