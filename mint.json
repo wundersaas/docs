@@ -38,7 +38,7 @@
     {
       "name": "Atualizações Recentes",
       "icon": "arrows-rotate",
-      "url": "updates"
+      "url": "/updates.mdx"
     },
     {
       "name": "Próximas Entregas",
