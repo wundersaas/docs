@@ -36,14 +36,14 @@
   ],  
   "anchors": [
     {
-      "name": "Atualizações Recentes",
+      "name": "Atualizações Recentes Error",
       "icon": "arrows-rotate",
       "url": "https://dashboard.bevean.com"
     },
     {
       "name": "Atualizações Recentes",
       "icon": "arrows-rotate",
-      "url": "/updates/updates"
+      "url": "/updates"
     },
     {
       "name": "Próximas Entregas",
