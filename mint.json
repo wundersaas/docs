@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Suporte",
-      "url": "mailto:ajuda@bevean.com"
+      "url": "mailto:help@bevean.com"
     }
   ],
   "topbarCtaButton": {
@@ -34,27 +34,14 @@
       "url": "api-reference"
     },
     {
-      "name": <Icon icon="check" />"Changelog",
-      "url": "atualiza"
+      "name": "Atualizações Recentes",
+      "url": "updates"
+    },
+    {
+      "name": "Próximos Lançamentos",
+      "url": "roadmap"
     }
   ],  
-  "anchors": [
-    {
-      "name": "Atualizações Recentes",
-      "icon": "arrows-rotate",
-      "url": "https://bevean.mintlify.app/atualiza/novidades"
-    },
-    {
-      "name": "Próximas Entregas",
-      "icon": "person-digging",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Comunidade Bevean",
-      "icon": "whatsapp",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
   "navigation": [
     {
       "group": "CRM",
@@ -74,9 +61,15 @@
       ]
     },
     {
-      "group": "Changes",
+      "group": "Atualizações Recentes",
       "pages": [
-        "atualiza/novidades"
+        "updates/novidades"
+      ]
+    },
+    {
+      "group": "Próximos Lançamentos",
+      "pages": [
+        "roadmap/index"
       ]
     }
   ],
