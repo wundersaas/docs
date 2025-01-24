@@ -34,12 +34,8 @@
       "url": "api-reference"
     },
     {
-      "name": "Atualizações Recentes",
+      "name": "Updates & Roadmap",
       "url": "updates"
-    },
-    {
-      "name": "Próximos Lançamentos",
-      "url": "roadmap"
     }
   ],  
   "navigation": [
@@ -61,14 +57,9 @@
       ]
     },
     {
-      "group": "Atualizações Recentes",
+      "group": "Updates & Roadmap",
       "pages": [
-        "updates/novidades"
-      ]
-    },
-    {
-      "group": "Próximos Lançamentos",
-      "pages": [
+        "updates/novidades",
         "roadmap/index"
       ]
     }
