@@ -59,8 +59,8 @@
     {
       "group": "Updates & Roadmap",
       "pages": [
-        "updates/novidades",
-        "roadmap/index"
+        "updates/updates",
+        "updates/roadmap"
       ]
     }
   ],
