@@ -18,7 +18,8 @@
   "topbarLinks": [
     {
       "name": "Suporte",
-      "url": "mailto:help@bevean.com"
+      "url": "mailto:help@bevean.com",
+      "icon": "fire"
     }
   ],
   "topbarCtaButton": {
