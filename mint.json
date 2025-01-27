@@ -47,9 +47,13 @@
         "crm/campanhas",
         "crm/clientes",
         "crm/conteudos",
-        "crm/analytics"
+        "crm/analytics",
+            {
+                "group": "Updates",
+                "pages": "updates/updates"
+            }
       ]
-    },
+    },    
     {
       "group": "Documentação da API",
       "pages": [
