@@ -49,7 +49,7 @@
         "crm/conteudos",
         "crm/analytics",
             {
-                "group": "Teste",
+                "group": "Tarefas",
                 "pages": ["crm/analytics"]
             }
       ]
