@@ -41,6 +41,7 @@
   "navigation": [
     {
       "group": "CRM",
+      "icon": "fire",
       "pages": [
         "crm/introducao",
         "crm/tarefas",
