@@ -49,8 +49,8 @@
         "crm/conteudos",
         "crm/analytics",
             {
-                "group": "Documentação da API",
-                "pages": ["api-reference/em-breve"]
+                "group": "Teste",
+                "pages": ["development"]
             }
       ]
     },    
