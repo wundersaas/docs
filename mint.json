@@ -50,7 +50,7 @@
         "crm/analytics",
             {
                 "group": "Teste",
-                "pages": ["development"]
+                "pages": ["crm/analytics"]
             }
       ]
     },    
