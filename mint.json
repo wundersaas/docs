@@ -47,11 +47,7 @@
         "crm/campanhas",
         "crm/clientes",
         "crm/conteudos",
-        "crm/analytics",
-            {
-              "group": "CRM",  
-              "pages": ["crm/clientes", "crm/campanhas"]
-            }
+        "crm/analytics"
       ]
     },    
     {
