@@ -74,7 +74,7 @@
            "slack":"https://mintlify.com/community"
        },
        "links":[ { 
-           "header": "Resources"
+           "header": "Resources",
            "items": [
               {
               "label": "Customers",
@@ -84,10 +84,7 @@
               "label": "Clientes",
               "href": "https://mintlify.com/clientes"
               }
-             
            ]
-       
-         
          }  
        ]  
    }
