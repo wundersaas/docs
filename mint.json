@@ -32,10 +32,6 @@
     {
       "name": "Bevean SS",
       "url": "api-reference"
-    },
-    {
-      "name": "Updates & Roadmap",
-      "url": "updates"
     }
   ],  
   "navigation": [
@@ -53,14 +49,14 @@
     {
       "group": "Evolução",
       "pages": [
-        "crm/introducao",
-        "crm/analytics"
+        "crm/updates",
+        "crm/roadmap"
       ]
     },
     {
       "group": "API",
       "pages": [
-        "crm/analytics"
+        "crm/api"
       ]
     },
     {
