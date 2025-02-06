@@ -1,144 +1,142 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Bevean",
-  "logo": {
-    "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
-  },
-  "favicon": "/favicon.svg",
-  "colors": {
-    "primary": "#4d3519",
-    "light": "#4d3519",
-    "dark": "#4d3519",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
-  },
-  "topbarLinks": [
-    {
-      "name": "Suporte",
-      "url": "mailto:help@bevean.com"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Painel de Controle",
-    "url": "https://dashboard.bevean.com"
-  },
-  "primaryTab": {
-    "name": "Bevean CRM"
-  },
-  "tabs": [
-    {
-      "name": "Bevean SS",
-      "url": "api-reference"
-    }
-  ],  
-  "navigation": [
-    {
-      "group": "Base de conhecimento",
-      "pages": [
-        "crm/introducao",
-        "crm/tarefas",
-        "crm/campanhas",
-        "crm/clientes",
-        "crm/conteudos",
-        "crm/analytics"
-      ]
-    },
-    {
-      "group": "Evolução",
-      "pages": [
-        "crm/updates",
-        "crm/roadmap"
-      ]
-    },
-    {
-      "group": "API",
-      "pages": [
-        "crm/api"
-      ]
-    },
-    {
-      "group": "Documentação da API 123",
-      "pages": [
-        "api-reference/em-breve"
-      ]
-    }
-  ],
-
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "linkedin": "https://www.linkedin.com/company/mintlify",
-      "github": "https://github.com/mintlify",
-      "slack": "https://mintlify.com/community"
-                },
-    
-  "links": [
+   "$schema":"https://mintlify.com/schema.json",
+   "name":"Bevean",
+   "logo":{
+      "dark":"/logo/dark.png",
+      "light":"/logo/light.png"
+   },
+   "favicon":"/favicon.svg",
+   "colors":{
+      "primary":"#4d3519",
+      "light":"#4d3519",
+      "dark":"#4d3519",
+      "anchors":{
+         "from":"#0D9373",
+         "to":"#07C983"
+      }
+   },
+   "topbarLinks":[
       {
-      "header": "Resources",
-      "items": [
-          {
-          "label": "Customers",
-          "href": "https://mintlify.com/customers"
-          },
-          {
-          "label": "Enterprise",
-          "href": "https://mintlify.com/enterprise"
-          },
-          {
-          "label": "Request Preview",
-          "href": "https://mintlify.com/preview"
-          },
-          {
-          "label": "Integrations",
-          "href": "https://mintlify.com/docs"
-          },
-          {
-          "label": "Templates",
-          "href": "https://github.com/mintlify/themes"
-          },
-          {
-          "label": "Wall of Love",
-          "href": "https://mintlify.com/love"
-          }
-      ]
-    },
-    {
-      "header": "Company",
-      "items": [
-          {
-          "label": "Careers",
-          "href": "https://mintlify.com/careers"
-          },
-          {
-          "label": "Blog",
-          "href": "https://mintlify.com/blog"
-          },
-          {
-          "label": "Public Roadmap",
-          "href": "https://feedback.mintlify.com/roadmap"
-          },
-          {
-          "label": "Security",
-          "href": "https://mintlify.com/security/responsible-disclosure"
-          }
-      ]
-   }, 
-   {
-      "header": "Legal",
-      "items": [
-          {
-          "label": "Privacy Policy",
-          "href": "https://mintlify.com/legal/privacy"
-          },
-          {
-          "label": "Terms of Service",
-          "href": "https://mintlify.com/legal/terms"
-          }
+         "name":"Suporte",
+         "url":"mailto:help@bevean.com"
+      }
+   ],
+   "topbarCtaButton":{
+      "name":"Painel de Controle",
+      "url":"https://dashboard.bevean.com"
+   },
+   "primaryTab":{
+      "name":"Bevean CRM"
+   },
+   "tabs":[
+      {
+         "name":"Bevean SS",
+         "url":"api-reference"
+      }
+   ],
+   "navigation":[
+      {
+         "group":"Base de conhecimento",
+         "pages":[
+            "crm/introducao",
+            "crm/tarefas",
+            "crm/campanhas",
+            "crm/clientes",
+            "crm/conteudos",
+            "crm/analytics"
+         ]
+      },
+      {
+         "group":"Evolução",
+         "pages":[
+            "crm/updates",
+            "crm/roadmap"
+         ]
+      },
+      {
+         "group":"API",
+         "pages":[
+            "crm/api"
+         ]
+      },
+      {
+         "group":"Documentação da API 123",
+         "pages":[
+            "api-reference/em-breve"
+         ]
+      }
+   ],
+   "footer":{
+      "socials":{
+         "x":"https://x.com/mintlify",
+         "linkedin":"https://www.linkedin.com/company/mintlify",
+         "github":"https://github.com/mintlify",
+         "slack":"https://mintlify.com/community"
+      },
+      "links":[
+         {
+            "header":"Resources",
+            "items":[
+               {
+                  "label":"Customers",
+                  "href":"https://mintlify.com/customers"
+               },
+               {
+                  "label":"Enterprise",
+                  "href":"https://mintlify.com/enterprise"
+               },
+               {
+                  "label":"Request Preview",
+                  "href":"https://mintlify.com/preview"
+               },
+               {
+                  "label":"Integrations",
+                  "href":"https://mintlify.com/docs"
+               },
+               {
+                  "label":"Templates",
+                  "href":"https://github.com/mintlify/themes"
+               },
+               {
+                  "label":"Wall of Love",
+                  "href":"https://mintlify.com/love"
+               }
+            ]
+         },
+         {
+            "header":"Company",
+            "items":[
+               {
+                  "label":"Careers",
+                  "href":"https://mintlify.com/careers"
+               },
+               {
+                  "label":"Blog",
+                  "href":"https://mintlify.com/blog"
+               },
+               {
+                  "label":"Public Roadmap",
+                  "href":"https://feedback.mintlify.com/roadmap"
+               },
+               {
+                  "label":"Security",
+                  "href":"https://mintlify.com/security/responsible-disclosure"
+               }
+            ]
+         },
+         {
+            "header":"Legal",
+            "items":[
+               {
+                  "label":"Privacy Policy",
+                  "href":"https://mintlify.com/legal/privacy"
+               },
+               {
+                  "label":"Terms of Service",
+                  "href":"https://mintlify.com/legal/terms"
+               }
+            ]
+         }
       ]
    }
-  ]
- }  
 }
