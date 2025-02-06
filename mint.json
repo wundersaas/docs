@@ -49,7 +49,18 @@
         "crm/conteudos",
         "crm/analytics"
       ]
-    },    
+    },
+    {
+      "group": "Bevean Evolution",
+      "pages": [
+        "crm/introducao",
+        "crm/tarefas",
+        "crm/campanhas",
+        "crm/clientes",
+        "crm/conteudos",
+        "crm/analytics"
+      ]
+    },
     {
       "group": "Documentação da API 123",
       "pages": [
