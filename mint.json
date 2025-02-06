@@ -64,13 +64,6 @@
       "pages": [
         "api-reference/em-breve"
       ]
-    },
-    {
-      "group": "Updates & Roadmap",
-      "pages": [
-        "updates/updates",
-        "updates/roadmap"
-      ]
     }
   ],
   "footerSocials": {
