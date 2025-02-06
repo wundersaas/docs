@@ -72,8 +72,16 @@
     "linkedin": "https://linkedin.com/company/mintlify"
   },
   "footerLinks": {
-    "Teste": "https://x.com/mintlify",
-    "Aleluia": "https://github.com/mintlify",
-    "vamos ver": "https://linkedin.com/company/mintlify"
-  },
+    "header": "Título da coluna",
+        "itens": [
+          {
+            "label": "Status do sistema",
+            "href": "teste.com"
+          },
+          {
+            "label": "Outro status",
+            "href": "teste123.com"
+          }
+    ] 
+  }
 }
