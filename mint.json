@@ -72,20 +72,6 @@
            "linkedin":"https://www.linkedin.com/company/mintlify",
            "facebook":"https://github.com/mintlify",
            "slack":"https://mintlify.com/community"
-       },
-       "links":[ { 
-           "header": "Resources",
-           "items": [
-              {
-              "label": "Customers",
-              "href": "https://mintlify.com/customers"
-              },
-             {
-              "label": "Clientes",
-              "href": "https://mintlify.com/clientes"
-              }
-           ]
-         }  
-       ]  
+       }  
    }
 }
