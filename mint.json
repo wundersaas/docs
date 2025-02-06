@@ -40,7 +40,7 @@
   ],  
   "navigation": [
     {
-      "group": "Bevean CRM",
+      "group": "Base de conhecimento",
       "pages": [
         "crm/introducao",
         "crm/tarefas",
@@ -51,13 +51,15 @@
       ]
     },
     {
-      "group": "Bevean Evolution",
+      "group": "Evolução",
       "pages": [
         "crm/introducao",
-        "crm/tarefas",
-        "crm/campanhas",
-        "crm/clientes",
-        "crm/conteudos",
+        "crm/analytics"
+      ]
+    },
+    {
+      "group": "API",
+      "pages": [
         "crm/analytics"
       ]
     },
