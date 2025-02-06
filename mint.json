@@ -66,14 +66,14 @@
          ]
       }
    ],
-   "footer":{
-      "socials":{
+   "footersocials":{
+      
          "x":"https://x.com/mintlify",
          "linkedin":"https://www.linkedin.com/company/mintlify",
          "facebook":"https://github.com/mintlify",
          "slack":"https://mintlify.com/community"
-      },
-      "links":[
+    },
+    "footerlinks":[
          {
             "header":"Resources",
             "items":[
