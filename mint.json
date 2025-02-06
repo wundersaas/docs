@@ -40,7 +40,7 @@
   ],  
   "navigation": [
     {
-      "group": "CRM 123",
+      "group": "Bevean CRM",
       "pages": [
         "crm/introducao",
         "crm/tarefas",
@@ -51,7 +51,7 @@
       ]
     },    
     {
-      "group": "Documentação da API",
+      "group": "Documentação da API 123",
       "pages": [
         "api-reference/em-breve"
       ]
