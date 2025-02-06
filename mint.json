@@ -60,9 +60,16 @@
          ]
       },
       {
-         "group":"Documentação da API 123",
+         "group":"Minha Conta",
          "pages":[
-            "api-reference/em-breve"
+            "myaccount/em-breve"
+         ]
+      },
+      {
+         "group":"Termos",
+         "pages":[
+            "legal/termos",
+            "legal/politicas"
          ]
       }
    ],
