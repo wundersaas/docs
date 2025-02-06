@@ -70,5 +70,10 @@
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://linkedin.com/company/mintlify"
-  }
+  },
+  "footerLinks": {
+    "Teste": "https://x.com/mintlify",
+    "Aleluia": "https://github.com/mintlify",
+    "vamos ver": "https://linkedin.com/company/mintlify"
+  },
 }
