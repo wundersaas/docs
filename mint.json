@@ -32,6 +32,14 @@
       {
          "name":"Bevean SS",
          "url":"api-reference"
+      },
+      {
+         "name":"Minha Conta",
+         "url":"myaccount"
+      },
+     {
+         "name":"Termos Legais",
+         "url":"legal"
       }
    ],
    "navigation":[
