@@ -32,19 +32,11 @@
       {
          "name":"Bevean SS",
          "url":"api-reference"
-      },
-      {
-         "name":"Minha Conta",
-         "url":"myaccount"
-      },
-     {
-         "name":"Termos Legais",
-         "url":"legal"
       }
    ],
    "navigation":[
       {
-         "group":"Base de conhecimento",
+         "group":"Base de Conhecimento",
          "pages":[
             "crm/introducao",
             "crm/tarefas",
@@ -62,22 +54,16 @@
          ]
       },
       {
-         "group":"API",
+         "group":"Documentação de API",
          "pages":[
             "crm/api"
          ]
       },
-      {
-         "group":"Minha Conta",
+     {
+         "group":"Termos e Condições",
          "pages":[
-            "myaccount/em-breve"
-         ]
-      },
-      {
-         "group":"Termos",
-         "pages":[
-            "legal/termos",
-            "legal/politicas"
+            "crm/termos",
+           "crm/politicas"
          ]
       }
    ],
