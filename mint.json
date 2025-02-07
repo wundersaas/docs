@@ -3,7 +3,7 @@
    "name":"Bevean",
    "logo":{
       "dark":"/logo/dark.png",
-      "light":"/logo/light.png"
+      "light":"/logo/logolight.svg"
    },
    "favicon":"/favicon.svg",
    "colors":{
